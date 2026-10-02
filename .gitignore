@@ -1,0 +1,13 @@
+# Local and temporary Power BI files
+*.pbit
+~$*
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Local editor settings
+.vscode/
+
+# Python virtual environment
+.venv/

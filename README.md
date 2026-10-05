@@ -1,3 +1,4 @@
+Built with: 🐘 PostgreSQL · 🐍 Python (pandas) · 📗 Excel · 📊 Power BI
 # 📊 Data Jobs Market Analysis
 
 An end-to-end analysis of the 2024 data jobs market, built from a dashboard-aligned CSV source to Python, PostgreSQL, and Power BI.
